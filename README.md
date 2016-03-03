@@ -9,7 +9,7 @@ node server.js
 http://jsonplaceholder.typicode.com/posts
 
 ```
-git clone https://vsogd.visualstudio.com/DefaultCollection/SDMPlusRewrite/_git/SDMPlus%20UI%20Rewrite
+git clone https://github.com/hesing/git-demo.git
 // do some changes
 git add --all
 // add some history to your local 
